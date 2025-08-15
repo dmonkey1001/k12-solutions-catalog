@@ -1,0 +1,10 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+header {
+    background-image: url('./images/background.png');
+}
+.card-link {
+    display: block;
+    height: 100%;
+}
